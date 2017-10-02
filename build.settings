@@ -40,7 +40,7 @@ settings =
     {
         ["plugin.androidCameraView"] =
         {
-            publisherId = "com.coronalabs"
+            publisherId = "tech.scotth"
         },
     }, 
 }
